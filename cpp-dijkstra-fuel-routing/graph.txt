@@ -1,0 +1,27 @@
+10
+Wick 2.90
+Ullapool 2.80
+Inverness 1.95
+Aberdeen 1.90
+Fort_William 2.50
+Perth 1.85
+Dundee 1.85
+Glasgow 1.80
+Edinburgh 1.80
+Dumfries 2.10
+15
+Wick Ullapool 114
+Wick Inverness 103
+Ullapool Inverness 57
+Ullapool Fort_William 111
+Inverness Aberdeen 104
+Inverness Perth 112
+Aberdeen Dundee 55
+Fort_William Glasgow 110
+Perth Glasgow 63
+Perth Dundee 21 
+Perth Edinburgh 44 
+Dundee Edinburgh 60
+Glasgow Edinburgh 50
+Glasgow Dumfries 77
+Edinburgh Dumfries 79
