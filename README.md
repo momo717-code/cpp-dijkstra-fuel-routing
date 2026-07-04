@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/29660629/README.md)
 # 🚚 Distance / Fuel-Cost Route Planner (C++)
 
 A C++ route-planning system for a Scottish goods-transport company. It models the road network as a **weighted directed graph**, finds the shortest route with **Dijkstra's algorithm**, and simulates a lorry's journey — fuel use, refuelling stops, and total cost — choosing where to refuel based on each city's fuel price.
